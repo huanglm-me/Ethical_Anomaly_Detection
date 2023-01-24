@@ -1,5 +1,5 @@
 # Ethical_Anomaly_Detection
 
-Ethically Compliant Decision Making for Anomaly Detection in Autonomous Driving Scenes
+Ethics-Responsible Anomaly Detection for Autonomous Driving
 
 The source code will be published soon.
